@@ -1,1 +1,13 @@
-
+<teiHeader> 
+<fileDesc>	Contains bibliographical information on the digital transcription file.    
+<titleStmt>	Provides a title for the file and declares who is responsible for what. 
+<project title information> 
+</titleStmt> 
+<publicationStmt>	Documents how the encoded document is published and distributed. 
+<publication information> 
+</publicationStmt> 
+<sourceDesc>		Documents from which source the transcription derives. 
+<source description> 
+</sourceDesc> 
+</fileDesc> 
+</teiHeader>
