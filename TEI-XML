@@ -1,13 +1,47 @@
-<teiHeader> 
-<fileDesc>	Contains bibliographical information on the digital transcription file.    
-<titleStmt>	Provides a title for the file and declares who is responsible for what. 
-<project title information> 
-</titleStmt> 
-<publicationStmt>	Documents how the encoded document is published and distributed. 
-<publication information> 
-</publicationStmt> 
-<sourceDesc>		Documents from which source the transcription derives. 
-<source description> 
-</sourceDesc> 
-</fileDesc> 
-</teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" type="application/xml-xsd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader> 
+      <fileDesc>	  
+        <titleStmt>	
+          <title>Saducismus trimphatus: a TEI transcription</title> 
+        </titleStmt> 
+        <publicationStmt>	 
+         <publisher>University of Borås</publisher>
+          <date>18 March 2024</date>
+          <availability>
+            <licence>
+              target=""https://creativecommons.org/licenses/by/4.0/">
+              <p>
+               Original text authored by Glanvill, Joseph, 1636-1680,and currently in the public domain.
+                Transcription distributed under a CC-BY 4.0 license.
+              </p>
+             </licence>
+          </availability>
+       </publicationStmt> 
+        <sourceDesc>		 
+          <bibl>
+            <title>Saducismus triumphatus : or, Full and plain evidence concerning witches and apparitions</title>
+            <author>Glanvill, Joseph</author>
+            <pubPlace>London</pubPlace>
+            <publisher>Printed for S.lowndes...M DC</publisher>
+            <date>LXXXIX [1689]</date>
+          </bibl>
+        </sourceDesc> 
+       <respStmt>
+         <resp>transribed by</resp>
+         <name>Denise Heed</name>
+         <name>Sandra Vestergaard</name>
+       </respStmt>
+      </fileDesc> 
+    </teiHeader>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
