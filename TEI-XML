@@ -40,13 +40,11 @@
     </teiHeader>
   <text>
       <body>
-         <p>
-
-	The Translator's PREFACE TO THE READER SHEWING 
+        <title>The Translator's PREFACE TO THE READER SHEWING 
 	What Credit may be given to the Matter of
-	Fact related in the ensuing Narrative.
-	
-	That we are to believe nothing, but what we have
+	Fact related in the ensuing Narrative.</title>
+	<p>
+        That we are to believe nothing, but what we have
 	seen, is a Rule so false, that we dare not call our selves
 	rational Creatures, and avouch it; yet as irrational as the 
 	Maxim is, 'this become modish with some Men, and shoe
@@ -64,6 +62,7 @@
 	Imaginations may be, and is sometime deluded; and melan-
 	choly People may Fancy they bear Voices, and see very strange
 			Hh 4 						things
+        </p> 
 	The PREFACE
 	things, which have no other foundation but their own weak-
 	ness, and like Bubbles break into Air, and nothing, by their
