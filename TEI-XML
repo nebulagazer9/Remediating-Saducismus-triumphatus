@@ -40,6 +40,7 @@
     </teiHeader>
   <text>
       <body>
+	<div>
         <title>The Translator's PREFACE TO THE READER SHEWING 
 	What Credit may be given to the Matter of
 	Fact related in the ensuing Narrative.</title>
@@ -62,7 +63,7 @@
 	choly People may Fancy they bear Voices, and see very strange</p>
 			Hh 4 						things
          
-	The PREFACE
+	<head>The PREFACE</head>
 	<p>things, which have no other foundation but their own weak-
 	ness, and like Bubbles break into Air, and nothing, by their
 	own vanity.</p> 
@@ -102,7 +103,7 @@
 	how some Men have endeavoured to clude the Story of the 
 	VVitches of Endor; and as far as I can judge, play more</p>
 									Hocus
-	The PREFACE
+	<head>The PREFACE</head>
 	<p>Hocus pocus tricks in the explication of that passage, than the 
 	VVitches of herself, did in raising the deceased Samuel. To
 	those Straits is Falshood driven, while Truth loves Plain, 
@@ -143,7 +144,7 @@
 	Sweden to know the truth of this famous Witchcraft:</p>
 									To
 
-	The PREFACE
+	<head>The PREFACE</head>
 	<p>To whom the King modestly reply'd, That his judges and
 	Commissioners had caused divers Men, Women, and Chil-
 	dren to be Burnt and Excecuted opon such pregnant Evidences, 
@@ -177,7 +178,7 @@
 	Person, may be of some moment in a thing related to that
 	Kingdom, I habe here set it down in his own Words.</p> 
 							Having
-	The PREFACE
+	<head>The PREFACE</head>
 	<p>Having read this Narrative, I could no lo lefs, than
 	upn the Request of the Translator and Publisher
 	of this Story, acknowledge, That to my best re-
@@ -213,7 +214,7 @@
 	reasonable windy Substances; nor doth the Expression, which
 	immediately follows in that Verse, cross this Exosition, viz.</p> 
 								That
-	The PREFACE
+	<head>The PREFACE</head>
 <p>That he makes his Ministers a flaming FireK for it’s no new
 Opinion, that some of thise invisible Substances are of a Fiery, 
 and others of an Airy Nature; and as we see, God gives 
@@ -389,11 +390,12 @@ thing being so notorious, there was instituued a publick Dis-
 putation about it, in the academy of</p> 
 
 *Leipfig…. S.245 
+</div>
 
 
 
 
-
+	<div>
 	(1)
 	A relation of the Strange Witchcraft Discovered in the Village Mohra in Swedeland, 
 	Taken out of the publick Register of the Lords Com-
@@ -416,7 +418,7 @@ putation about it, in the academy of</p>
 	stances of the Devil's Tyranny among them; how by the help</p> 
 								of
 	
-	2 	THE COLLECTION
+	2 	<head>THE COLLECTION</head>
 
 	<p>of Witches, he had drawn some Hundreds of Children to him, 
 	and made them subject to his power; how he hath been seen
@@ -463,7 +465,7 @@ putation about it, in the academy of</p>
 	the other denying and pleading not guilty, were sent to Faluna,
 	where most of them were afterwards Executed.</p>
 								Fifteen
-	3 	OF RELATIONS. 
+	3 	<head>OF RELATIONS.</head>
 	<p>Fifteen Children which likewise confessed that they were en-
 	gaged in this Witchery died as the rest; Six and thirty of them 
 	between nine and sixteen years of age, who had been less guil-
@@ -510,7 +512,7 @@ putation about it, in the academy of</p>
 	Children had said. And these expressed their abhorrency of the 
 	fact, and begg'd pardon; adding, that the Devil, whom they</p>
 					?????	I i 2	??									call'd
-4								The Collection
+4	<head>The Collection</head>
 <p>call'd Loeyta(?), had stopt(?) the Mouths of some of them, and
 stopt the Ears of others; and being now gone from them, they
 could no longer conceal it, for they now perceived his Trea-
@@ -556,7 +558,7 @@ take away her strength, and her body lay still upon the ground;
 yet sometimes he took even her body with him.</p>
 																			Being
 
-								of Relations.							5
+			<head>of Relations.</head>							5
 	<p>Being asked, how they could go with their Bodies through
 Chimneys and broken Panes of Glass, they said, that the Devil
 did first remove all that might hinder them in their flight, and
@@ -603,7 +605,7 @@ bled and tourtured in their minds for it.</p>
 
 								I i 3										The
 
-6 									The Collection
+6 					<head>The Collection</head>
 	<p>The Children thus used, lookt mighty bleak, wan and beaten.
 The marks of the Lashes, the Judges could not perceive in them,
 except in one Boy, who had some Wounds and holes in his Back,
@@ -650,7 +652,7 @@ and this one of the Witches confessed.</p>
 delicate large Meadow, whereof you can see no end. 	 The</p>
 																		place
 
-								of Relations.						 7
+						<head>of Relations.</head>						 7
 <p>place or House they met at, had before it a Gate painted
 with diverse colours; through this Gate they went into a little
 Meadow distinct from the other, where the Beasts went, that
@@ -697,7 +699,7 @@ that he liked best, into a Chamber, where he commited Ve-
 nerous Acts with them; and this indeed all confessed, That</p>
 									I i 4									he
 
-8								The Collection
+8						<head>The Collection</head>
 <p>he had carnal knowledge of them, and that the Devil had Sons,
 and Daughters by them, which he did Marry togheter, and 
 they did couple togheter, and brought forth Toads and Ser-
@@ -738,7 +740,7 @@ place himself sometimes at the Door betwixt the Witches and
 the Children; and when they come to Blockula, he pulled the 
 Children back, but the Witches they went in.</p> 
 							3, Of
-9 	Of relations
+9 	<head>Of relations</head>
 3. Of the Mischief of Evil which the Witches promised to do to 
 Men and Beasts. 
 
@@ -782,7 +784,7 @@ of shich stroak the Boy remained lame a long time. And
 she added, That before she was burnt, or Excecuted by the Hand
 of Justice, the Boy would recover.</p> 
 							They
-10 	The collection
+10 	<head>The collection</head>
 	<p>They confessed also, That the Devil gives them a Beast a-
 bout the bigness and shape of a young Cat, which they call a 
 Carrier; and that he gives them a Bird too, as big as a Raven, 
@@ -818,7 +820,7 @@ Devil's power, and deliver these poor Creatures, which have
 hitherto groaned under it.</p> 
 							An
 
-11 	of Relations. 	
+</div>
       </body>
   </text>
 </TEI>
