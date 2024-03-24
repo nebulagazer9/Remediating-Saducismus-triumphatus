@@ -178,7 +178,7 @@
 	Person, may be of some moment in a thing related to that
 	Kingdom, I habe here set it down in his own Words.</p> 
 							Having
-	<head>The PREFACE</head>
+<head>The PREFACE</head>
 	<p>Having read this Narrative, I could no lo lefs, than
 	upn the Request of the Translator and Publisher
 	of this Story, acknowledge, That to my best re-
@@ -186,10 +186,15 @@
 	that have been made to me, the matter of Fact
 	mentioned in it, is true, and that the Witches con-
 	fessed such things, and were accordingly Excecuted.</p>
-		Witness my Hand, 
-	London, March
-	8, 1682. 
-				LEYONBERGH.
+<closer>
+	<salute>Witness my Hand,<salute>
+<dateline>
+	<ib>London, March</ib>
+	<ib>8, 1682.</ib>
+</dateline>
+	<signed>LEYONBERGH.</signed>
+</closer>
+	
 	<p>I do not take upon me to justise the Truth of what the Wit-
 	ches said, for dealing with the Father of Lies, it's probable, 
 	Veracity is not Vertue, that they greatly study, yet that the
