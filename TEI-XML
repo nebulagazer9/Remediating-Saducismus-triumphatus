@@ -40,7 +40,6 @@
     </teiHeader>
   <text>
       <body>
-	<div>
 	<pb>
         <head>The Translator's PREFACE TO THE READER SHEWING 
 	What Credit may be given to the Matter of
@@ -435,8 +434,6 @@ taining very dreadful News from the Country, of Armies
 fighting in the Air. 
 <fw type="catch" place="bot-right">A.</fw>
 </p> 
-</div>
-<div>
 	<pb>
 	<p n="1"/>
 	<head>
@@ -885,7 +882,6 @@ Devil's power, and deliver these poor Creatures, which have
 hitherto groaned under it.</p> 
 	<fw type="catch" place="bot-right">An</fw>
 </pb>
-</div>
       </body>
   </text>
 </TEI>
