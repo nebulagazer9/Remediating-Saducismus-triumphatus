@@ -40,6 +40,7 @@
     </teiHeader>
   <text>
       <body>
+	<div type="preface">
 	<pb>
         <head>The Translator's PREFACE TO THE READER SHEWING 
 	What Credit may be given to the Matter of
@@ -432,6 +433,7 @@ imposed upon by the following Narrative; and that it is not
 in the nature of those Pamplets they cry about the Streets con-
 taining very dreadful News from the Country, of Armies
 fighting in the Air. 
+</div>
 <fw type="catch" place="bot-right">A.</fw>
 </p> 
 	<pb>
