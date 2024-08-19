@@ -1,5 +1,6 @@
 # Remediating Saducismus Triumphatus🧙🏼‍♀️
-This repository is an assembly point for the main material associated with a group project in the Multimodality course at the University of Borås, Sweden.
+This repository is an assembly point for the main material associated with a group project in the course *Multimodality: Narrative and Context in Different Media Formats* at the University of Borås, Sweden.
+The two contributors of this repository are the members of said group project.
 ## The assignment
 The group members collaborate to remediate a chosen artefact. The artefact is a digitalised "Saducismus Triumphatus" (third edition) by Joseph Glanvill.
 ### Special note
