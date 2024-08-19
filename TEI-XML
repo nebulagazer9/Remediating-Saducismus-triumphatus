@@ -40,8 +40,8 @@
     </teiHeader>
   <text>
       <body>
+	<pb n="1"/>
 	<div type="preface"/>
-	<pb>
         <head>The Translator's PREFACE TO THE READER SHEWING 
 	What Credit may be given to the Matter of
 	Fact related in the ensuing Narrative.</head>
@@ -64,9 +64,7 @@
 	choly People may Fancy they bear Voices, and see very strange</p>
 	<fw>Hh 4</fw>
 	<fw type="catch" place="bot-right">things</fw>
-	</pb>
-         
-	<pb>
+	<pb n="2"/>
 	<head>The PREFACE</head>
 	<p>things, which have no other foundation but their own weak-
 	ness, and like Bubbles break into Air, and nothing, by their
@@ -107,8 +105,7 @@
 	how some Men have endeavoured to clude the Story of the 
 	VVitches of Endor; and as far as I can judge, play more</p>
 	<fw type="catch" place="bot-right">Hocus</fw>
-	</pb>
-	<pb>
+	<pb n="3"/>
 	<head>The PREFACE</head>
 	<p>Hocus pocus tricks in the explication of that passage, than the 
 	VVitches of herself, did in raising the deceased Samuel. To
@@ -149,8 +146,7 @@
 	that the Duke of Holstein sent an Express to the King of
 	Sweden to know the truth of this famous Witchcraft:</p>
 	<fw type="catch" place="bot-right">To</fw>
-	</pb>
-	<pb>
+	<pb n="4"/>
 	<head>The PREFACE</head>
 	<p>To whom the King modestly reply'd, That his judges and
 	Commissioners had caused divers Men, Women, and Chil-
@@ -185,8 +181,7 @@
 	Person, may be of some moment in a thing related to that
 	Kingdom, I habe here set it down in his own Words.</p> 
 	<fw type="catch" place="bot-right">Having</fw>
-	</pb>
-	<pb>
+	<pb n="5"/>
 	<head>The PREFACE</head>
 	<p>Having read this Narrative, I could no lo lefs, than
 	upn the Request of the Translator and Publisher
@@ -227,8 +222,7 @@
 	reasonable windy Substances; nor doth the Expression, which
 	immediately follows in that Verse, cross this Exosition, viz.</p> 
 	<fw type="catch" place="bot-right">That</fw>
-	</pb>
-	<pb>
+	<pb n="6"/>
 	<head>The PREFACE</head>
 	<p>That he makes his Ministers a flaming FireK for it’s no new
 	Opinion, that some of thise invisible Substances are of a Fiery, 
@@ -268,8 +262,7 @@
 	better than the deepest Philophers, and understand better
 	how things are joyned and compounded, and what the Ingre-</p>
 	<fw type="catch" place="bot-right">dients</fw>
-	</pb>
-	<pb>
+	<pb n="7"/>
 	<head>The PREFACE</head>
 	<p>dients of Terrestrial productions are, and see things (grosser 
 	things at least) in their first principles, and have power over
@@ -310,8 +303,7 @@
 	Witness, gave me this instance, of a Minister’s Child of his 
 	Acquaintance, not far from Stockholm who being told,</p> 
 	<fw type="catch" place="bot-right">And</fw>
-	</pb>
-	<pb>
+	<pb n="8"/>
 	<header>The PREFACE</header>
 	<p>and assured by his Wife, that the Child was carried to Bloc-
 	kula every Night, and convey'd back into his Bed again, re-
@@ -352,8 +344,7 @@
 	themselves of the sad Providence, and make use of it for their 
 	own ends, as Thieves, when a House or Town is on fire, will</p>
 	<fw type="catch" place="bot-right">steal</fw>
-	</pb>
-	<pb>
+	<pb n="9"/>
 	<header>The PREFACE</header>
 	<p>steal and filch what thet can; yet there is no Fable, but hath
 	some Foundation in History, so when wicked People make use
@@ -393,8 +384,7 @@
 	and dig in a ground Chamber, where she woyld find an in-
 	estimable Treasure; but the Maid amazed at the sight of him,</p> 
 	<fw type="catch" place="bot-right">swooned;</fw> 
-	</pb>
-	<pb>
+	<pb n="10"/>
 	<header>The PREEACE</header>
 	<p>swooned; whereupon he lifted her up, but left such a Mark up-
 	on her Flesh with lifting her, that it was to be seen for sometime
@@ -435,8 +425,7 @@
 	fighting in the Air. 
 	</div>
 	<fw type="catch" place="bot-right">A.</fw>
-	</p> 
-	<pb>
+	<pb n="11"/>
 	<p n="1"/>
 	<head>
 	A 
@@ -463,8 +452,7 @@
 	that Calamity. They gave the Commissioners very strange In-
 	stances of the Devil's Tyranny among them; how by the help</p> 
 	<fw type="catch" place="bot-right">of</fw>
-	</pb>
-	<pb>
+	<pb n="12"/>
 	<p n="2"/> 
 	<head>THE COLLECTION</head>
 	<p>of Witches, he had drawn some Hundreds of Children to him, 
@@ -512,8 +500,7 @@
 	the other denying and pleading not guilty, were sent to Faluna,
 	where most of them were afterwards Executed.</p>
 	<fw type="catch" place="bot-right">Fifteen</fw>
-	</pb>
-	<pb>
+	<pb n="13"/>
 	<p n="3"/> 
 	<head>OF RELATIONS.</head>
 	<p>Fifteen Children which likewise confessed that they were en-
@@ -562,8 +549,7 @@
 	fact, and begg'd pardon; adding, that the Devil, whom they</p>
 	<fw>I i 2</fw>
 	<fw type="catch" place="bot-right">call'd</fw>
-	</pb>
-	<pb>
+	<pb n="14"/>
 	<p n="4"/> 
 	<head>The Collection</head>
 	<p>call'd Loeyta(?), had stopt(?) the Mouths of some of them, and
@@ -609,8 +595,7 @@
 	was very like them, But one of them confessed that he did only
 	take away her strength, and her body lay still upon the ground;
 	yet sometimes he took even her body with him.</p>
-	</pb>
-	<pb>																		Being
+	<pb n="15"/>																		Being
 	<p n="5"/> 
 	<head>of Relations.</head>							
 	<p>Being asked, how they could go with their Bodies through
@@ -658,8 +643,7 @@
 	bled and tourtured in their minds for it.</p>
 	<fw>I i 3</fw>		
 	<fw type="catch" place="bot-right">The</fw>
-	</pb>
-	<pb>
+	<pb n="16"/>
 	<p n="6"/> 
 	<head>The Collection</head>
 	<p>The Children thus used, lookt mighty bleak, wan and beaten.
@@ -705,8 +689,7 @@
 	<p>They unanimously confessed, that Blockula is situated in a
 	delicate large Meadow, whereof you can see no end.  The</p>
 	<fw type="catch" place="bot-right">place</fw>
-	</pb>
-	<pb>									place
+	<pb n="17"/>								place
 	<p n="7"/> 
 	<head>of Relations.</head>						 
 	<p>place or House they met at, had before it a Gate painted
@@ -755,8 +738,7 @@
 	nerous Acts with them; and this indeed all confessed, That</p>
 	<fw>I i 4</fw>	
 	<fw type="catch" place="bot-right">he</fw>
-	</pb>
-	<pb>
+	<pb n="18"/>
 	<p n="8"/> 
 	<head>The Collection</head>
 	<p>he had carnal knowledge of them, and that the Devil had Sons,
@@ -799,8 +781,7 @@
 	the Children; and when they come to Blockula, he pulled the 
 	Children back, but the Witches they went in.</p> 
 	<fw type="catch" place="bot-right">3, Of</fw>
-	</pb>
-	<pb>
+	<pb n="19"/>
 	<p n="9"/> 
 	<head>Of relations</head>
 	<p>3. Of the Mischief of Evil which the Witches promised to do to 
@@ -845,8 +826,7 @@
 	she added, That before she was burnt, or Excecuted by the Hand
 	of Justice, the Boy would recover.</p> 
 	<fw type="catch" place="bot-right">They</fw>
-	</pb>
-	<pb>
+	<pb n="20"/>
 	<p n="10"/> 
 	<head>The collection</head>
 	<p>They confessed also, That the Devil gives them a Beast a-
@@ -883,7 +863,6 @@
 	Devil's power, and deliver these poor Creatures, which have
 	hitherto groaned under it.</p> 
 	<fw type="catch" place="bot-right">An</fw>
-	</pb>
       </body>
   </text>
 </TEI>
