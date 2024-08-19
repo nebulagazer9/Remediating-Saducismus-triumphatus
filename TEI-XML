@@ -65,7 +65,7 @@
 	<fw>Hh 4</fw>
 	<fw type="catch" place="bot-right">things</fw>
 	<pb n="2"/>
-	<header>The PREFACE</header>
+	<fw type="header" place="top-center">The PREFACE</fw>
 	<p>things, which have no other foundation but their own weak-
 	ness, and like Bubbles break into Air, and nothing, by their
 	own vanity.</p> 
@@ -106,7 +106,7 @@
 	VVitches of Endor; and as far as I can judge, play more</p>
 	<fw type="catch" place="bot-right">Hocus</fw>
 	<pb n="3"/>
-	<header>The PREFACE</header>
+	<fw type="header" place="top-center">The PREFACE</fw>
 	<p>Hocus pocus tricks in the explication of that passage, than the 
 	VVitches of herself, did in raising the deceased Samuel. To
 	those Straits is Falshood driven, while Truth loves Plain, 
@@ -147,7 +147,7 @@
 	Sweden to know the truth of this famous Witchcraft:</p>
 	<fw type="catch" place="bot-right">To</fw>
 	<pb n="4"/>
-	<header>The PREFACE</header>
+	<fw type="header" place="top-center">The PREFACE</fw>
 	<p>To whom the King modestly reply'd, That his judges and
 	Commissioners had caused divers Men, Women, and Chil-
 	dren to be Burnt and Excecuted opon such pregnant Evidences, 
@@ -182,7 +182,7 @@
 	Kingdom, I habe here set it down in his own Words.</p> 
 	<fw type="catch" place="bot-right">Having</fw>
 	<pb n="5"/>
-	<header>The PREFACE</header>
+	<fw type="header" place="top-center">The PREFACE</fw>
 	<p>Having read this Narrative, I could no lo lefs, than
 	upn the Request of the Translator and Publisher
 	of this Story, acknowledge, That to my best re-
