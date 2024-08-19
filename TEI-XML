@@ -8,12 +8,12 @@
       <fileDesc>	  
         <titleStmt>	
           <title>Saducismus trimphatus: a TEI transcription</title> 
+									<respStmt>
+										<resp>transcribed by</resp>
+										<name>Denise Heed</name>
+										<name>Sandra Vestergaard</name>
+									</respStmt>
         </titleStmt> 
-	<respStmt>
-         <resp>transribed by</resp>
-         <name>Denise Heed</name>
-         <name>Sandra Vestergaard</name>
-       </respStmt>
         <publicationStmt>	 
          <publisher>University of Borås</publisher>
           <date>18 March 2024</date>
